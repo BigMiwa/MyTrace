@@ -43,3 +43,6 @@ Private Agencies (CIA)
 
 ## Vision Statement 
 To give users complete awareness and control over their digital footprint making online privacy visible, understandable, and actionable.
+
+### Documentation
+[Sytem Architecture](systemArchitecture.md)
